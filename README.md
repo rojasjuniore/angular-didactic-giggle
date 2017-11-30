@@ -2,7 +2,16 @@
 
 # Demo
 
--> [Angular CLI](https://rojasjuniore.github.io/angular-didactic-giggle/) 
+Demo [Angular CLI](https://rojasjuniore.github.io/angular-didactic-giggle/) 
+
+![GitHub Logo](https://docs.angularjs.org/img/Two_Way_Data_Binding.png)
+
+![GitHub Logo](https://drive.google.com/file/d/1qNLdk4xtRD_zPeYQvprbghE0qN7yhh38.png)
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
